@@ -1,3 +1,6 @@
 [submodule "hello-stacker-ts-app-template"]
 	path = hello-stacker-ts-app-template
 	url = https://github.com/andre-cintra/hello-stacker-ts-app-template
+[submodule "ask-staker-name-ts-plugin"]
+	path = ask-staker-name-ts-plugin
+	url = https://github.com/andre-cintra/ask-staker-name-ts-plugin
