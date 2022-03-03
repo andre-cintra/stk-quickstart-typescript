@@ -1,0 +1,3 @@
+[submodule "hello-stacker-ts-app-template"]
+	path = hello-stacker-ts-app-template
+	url = https://github.com/andre-cintra/hello-stacker-ts-app-template
